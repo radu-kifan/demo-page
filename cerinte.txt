@@ -1,0 +1,21 @@
+
+1. Tot codul trebuie sa fie salvat pe bitbucket
+2. Site-ul trebuie sa fie responsive (adaptat pentru dispozitivele mobile).
+@media screen and (max-width: 991px){
+
+}
+
+@media screen and (max-width: 767px){
+
+}
+
+@media screen and (max-width: 480px){
+
+}
+
+3. Se pot folosi orice resurse de pe net, cu conditia sa intelegi ce ai facut
+4. Data limita de predare: 30 Ianuarie 2019
+
+
+
+ 

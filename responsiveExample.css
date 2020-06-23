@@ -1,0 +1,131 @@
+@media screen and (max-width: 510px){
+ 
+ 
+  #first_menu{
+  	 display:inline;
+  	 right:2%;
+  	 top:0.5%;
+
+  }
+
+#first_menu,li,a{
+	letter-spacing: 1px;
+}
+
+ #background_text2{
+	font-size: 1rem;
+	font-weight:700;
+}
+
+#background_text1{
+   font-size: 1rem;
+}
+#background_text3{
+	font-size: 0.4rem;
+}
+
+#background_text{
+	left:19%;
+	top:27%;
+}
+
+button{
+	width:6rem;
+	height:1.6rem;
+	font-size:0.6rem;
+}
+
+
+.itemBox{
+  height:65rem;
+  width:20rem;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items:center;
+}
+
+.items{
+	width:18rem;  
+}
+ .title{
+ 	 margin:5rem auto 5rem;
+ }
+
+ #secondTitle{
+ 	margin-top:10rem;
+ }
+
+ #secondMenu{
+ 	width:25rem;
+ 	height:1.5rem;
+ }
+.second-nav{
+	padding: 1rem;
+	font-size:0.7rem;
+}
+
+#images_portofolio_grid{
+	margin:2rem auto 10rem;
+	display: flex;
+	flex-direction: column;
+	width:20rem;
+	height:115rem;
+ 
+}
+
+img[alt*="mockup"]{
+	width:17rem;
+	height:17rem;
+
+}
+
+#contactTitle{
+	margin-top: 60rem;
+}
+
+.form{
+  width:25rem;
+  height:20rem;
+  position: relative;
+  margin:0 auto 1rem;
+  padding-left: 3.9375rem;
+   
+}
+
+input,textarea{
+	margin: 0.3125rem;
+	padding: 0.5625rem;
+    background-color: #FAFAFA;
+	border:none;
+	font-family: Rubik;
+	color:#9E9FA6;
+	font-size: 0.4125rem;
+}	
+
+input:first-of-type,input:nth-of-type(2){
+ 	width:21.19rem;
+}
+
+input:nth-of-type(3){
+ 	width:21.19rem;
+}
+
+textarea{
+	width:21.19rem;
+}
+
+ 
+
+#send{
+ 	position: relative;
+ 	left:38%;
+ 	height: 1.5625rem;
+ 	margin-top: 1.5625rem;
+ 	background-color: black;
+ 	border:none;
+ 	border-radius: 0.15625rem;
+ 	font-size: 0.4375rem;
+ 	color:white;
+}
+
+}
